@@ -24,7 +24,7 @@ env:
 
 jobs:
   integration:
-    uses: alirek/challenge_integration/.github/workflows/python-app.yml@main
+    uses: alirek/challenge_integration/.github/workflows/python-app.yml@master
     permissions:
       contents: read
       
